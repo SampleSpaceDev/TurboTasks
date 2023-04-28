@@ -1,0 +1,4 @@
+name: TurboTasks
+version: '${project.version}'
+main: dev.samplespace.turbotasks.TurboTasks
+api-version: 1.19
